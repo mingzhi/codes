@@ -9,7 +9,7 @@ cd $wdir
 
 # we simulate Illumina 2500 sequencing reads for the 12 transformants genomes at coverage of 5
 # first prepare reference genome
-create_reference_py=~/codes/2017-06-28_read_simulations/create_references.py
+create_reference_py=$NOTEBOOKS/2017-06-28_read_simulations/create_references.py
 genome_list_file="../genome_list/TC1_genomes.txt"
 reference_file="TC1_genomes.fna"
 python $create_reference_py $genome_list_file $reference_file
