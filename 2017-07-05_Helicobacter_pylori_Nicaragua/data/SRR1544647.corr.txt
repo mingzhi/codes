@@ -1,0 +1,1335 @@
+GeneId	Ks	P2	ReadDepth	GeneProduct
+cds1162	0.0522717	0.00466603	1.86717	hypothetical protein
+cds1163	0.0450219	0.00558315	2.18724	membrane protein
+cds608	0.0440476	0.00290696	1.50394	hypothetical protein
+cds52	0.0307719	0.00360716	1.87525	hypothetical protein
+cds190	0.030568	0.00298629	2.5591	beta-lactamase HcpA
+cds1132	0.0227381	0.00188853	2.53465	orotate phosphoribosyltransferase
+cds470	0.0187815	0.00245773	1.65439	cag pathogenicity island protein cag7
+cds905	0.0161802	0.00243098	1.55641	amino acid permease
+cds629	0.0136802	0.00114246	2.78467	membrane protein
+cds105	0.0102089	0.000744682	1.26852	hypothetical protein
+cds550	0.00825183	0.00148369	3.24644	ABC transporter ATP-binding protein
+cds887	0.00784814	0.00149553	2.74876	hypothetical protein
+cds106	0.00774326	0.000398136	1.68903	hypothetical protein
+cds1336	0.00646494	0.000644593	1.8941	amidophosphoribosyltransferase
+cds888	0.00580954	0.000827922	2.50468	integrase/recombinase XerD
+cds335	0.00576539	0	1.56645	biotin carboxylase
+cds344	0.00535393	9.71538e-05	1.28013	fucosyltransferase
+cds676	0.00517997	0	1.52751	hypothetical protein
+cds310	0.00507776	0	2.34967	hypothetical protein
+cds983	0.00416239	0.000562533	1.85109	beta-lactamase HcpC
+cds640	0.00388428	2.11178e-05	1.28201	membrane protein
+cds1143	0.00346059	0.000213884	1.67577	NADH-quinone oxidoreductase subunit J
+cds770	0.00343442	9.58164e-05	1.65684	plasminogen-binding protein PgbB
+cds1118	0.00322372	0.000387175	0.580836	membrane protein
+cds1285	0.00302316	0.000386898	1.97001	metal-dependent hydrolase
+cds758	0.0025604	3.25216e-05	1.50146	membrane protein
+cds1229	0.00251358	9.7706e-05	1.6393	phosphatidylserine decarboxylase
+cds1417	0.00242515	9.66231e-05	1.65575	iron(III) ABC transporter substrate-binding protein CeuE
+cds1345	0.00236944	0	2.62835	exodeoxyribonuclease VII small subunit
+cds802	0.0023551	0.000292149	1.68594	membrane protein
+cds1144	0.00232666	0.000235806	2.033	NADH-quinone oxidoreductase subunit K
+cds3	0.00222018	6.21552e-05	1.85435	carbonic anhydrase IcfA
+cds468	0.00207652	5.95223e-05	2.23666	type IV secretion system ATPase
+cds1337	0.00198646	0	1.71007	thymidylate kinase
+cds1349	0.00193958	0.000123907	1.51194	hypothetical protein
+cds827	0.00192608	0.000106841	2.06701	recombination protein RecR
+cds811	0.0018859	0	1.51876	flagellar basal body rod modification protein
+cds1237	0.0018297	0	1.87227	response regulator
+cds154	0.00178276	4.3414e-05	1.44414	peptide chain release factor 2
+cds146	0.00175448	0	1.28339	beta-lactamase HcpD
+cds1074	0.00174203	2.29825e-05	1.66453	30S ribosomal protein S7
+cds1275	0.00171242	0	1.26855	biotin synthase
+cds843	0.00170342	0	2.08466	aminoacrylate peracid reductase RutC family protein
+cds1228	0.00167777	0.000110816	1.56874	quinolinate synthetase
+cds563	0.00165196	0.000127274	1.51271	hypothetical protein
+cds6	0.00161085	0	1.15118	membrane protein
+cds22	0.0015883	0	1.19204	type II citrate synthase
+cds1141	0.00156266	0.000105425	1.34343	NADH-quinone oxidoreductase subunit H
+cds358	0.00154357	0	1.45299	chemotaxis protein CheV
+cds1046	0.00153905	4.3863e-05	1.66494	MFS transporter
+cds1232	0.00151301	2.47402e-05	1.35254	4-hydroxybenzoate octaprenyltransferase
+cds990	0.00147359	0.000186766	2.27392	LPS biosynthesis protein
+cds456	0.00146899	0	1.35823	glutamine synthetase GlnA
+cds564	0.00146269	0	1.7453	NADPH quinone reductase MdaB
+cds614	0.00145868	0	1.15545	succinyl-CoA:3-ketoacid-CoA transferase subunit B
+cds207	0.00143046	6.21733e-05	1.45041	membrane protein
+cds76	0.00141972	4.5384e-05	1.51456	hypothetical protein
+cds124	0.00140919	0	1.79874	hypothetical protein
+cds779	0.00140422	0	2.45455	alkylphosphonate uptake protein PhnA
+cds963	0.00137421	0.000105813	1.58233	nickel transport protein NixA
+cds1104	0.00137417	4.8604e-05	1.85684	RNA pyrophosphohydrolase
+cds683	0.00134203	0	1.21978	nitronate monooxygenase
+cds1383	0.0013411	0	1.82075	membrane protein
+cds226	0.00133943	0	1.2966	membrane protein
+cds264	0.00133208	0	1.87764	membrane protein
+cds175	0.00132337	0	1.54818	fumarate reductase cytochrome b-556 subunit
+cds753	0.00131481	0	1.51582	hydroxyethylthiazole kinase
+cds1294	0.00128567	2.62553e-05	1.51111	KpsF/GutQ family protein
+cds365	0.00128098	0	1.78545	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+cds805	0.00126016	0	2.44017	hydrogenase expression/formation protein HypC
+cds1364	0.00125817	7.67662e-05	2.28995	membrane protein
+cds342	0.00123785	0	2.10811	thiol:disulfide interchange protein DsbC
+cds732	0.00121686	0	1.44234	homoserine dehydrogenase
+cds343	0.00120275	1.46507e-05	1.38598	cytochrome c biogenesis protein
+cds1107	0.00120221	3.22309e-05	1.6347	DNA polymerase III subunit delta'
+cds1196	0.00120005	0	1.78713	hypothetical protein
+cds699	0.00119548	0	0.951389	type I restriction-modification system specificity protein
+cds229	0.00118912	0	1.45624	ABC transporter permease
+cds1211	0.00118754	0	1.91429	nicotinate-nucleotide adenylyltransferase
+cds682	0.00118392	7.7053e-05	1.49962	N-acetylmuramoyl-L-alanine amidase
+cds585	0.00118073	0	1.6875	phosphoserine phosphatase SerB
+cds1270	0.00117877	6.64535e-06	1.14907	iron(III) dicitrate transport protein FecA
+cds634	0.00117348	2.93895e-05	1.39436	DNA polymerase III subunits gamma and tau
+cds674	0.00115345	6.41525e-05	1.4898	signal recognition particle receptor FtsY
+cds1155	0.00114191	2.21783e-05	1.77949	anthranilate synthase component II
+cds29	0.00113095	7.87429e-05	1.32974	ATP-dependent Clp protease ATP-binding subunit ClpA
+cds1149	0.00112865	1.15712e-05	1.53986	phosphomannomutase
+cds697	0.0010915	1.73341e-05	1.40333	membrane protein
+cds999	0.00108998	8.94948e-05	1.43854	excinuclease ABC subunit B
+cds617	0.0010833	1.07125e-05	1.13359	acetone carboxylase subunit alpha
+cds1192	0.00108029	0	1.48457	50S ribosomal protein L4
+cds1120	0.00107843	0	1.65	single-stranded DNA-binding protein
+cds242	0.00107601	0	1.4723	dihydroorotase PyrC
+cds769	0.00107315	0	1.70238	pantothenate kinase
+cds7	0.00106412	0	1.19866	molecular chaperone GroEL
+cds829	0.00106363	0	1.68909	heat shock protein HtpX
+cds1210	0.0010599	0	1.60367	hypothetical protein
+cds1358	0.00105101	3.74379e-05	1.60568	transaldolase
+cds195	0.00104459	0	1.32611	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+cds1355	0.00103396	0	2.39259	hypothetical protein
+cds507	0.00101729	0	1.65937	diaminopimelate epimerase
+cds1311	0.00101522	0	2.0679	ribonuclease P protein component
+cds1257	0.00101268	1.38702e-05	1.71713	ribulose-phosphate 3-epimerase
+cds1073	0.00100113	1.2145e-05	1.04281	elongation factor G
+cds859	0.000999597	0	1.37061	glycine--tRNA ligase subunit alpha
+cds789	0.000995763	0	1.80435	Holliday junction DNA helicase RuvA
+cds569	0.000984277	3.18511e-05	1.39116	hydrogenase biosynthesis protein HydE
+cds928	0.000956528	0	1.53868	3'%2C5'-cyclic-nucleotide phosphodiesterase
+cds1410	0.000954702	4.90299e-05	1.80252	30S ribosomal protein S2
+cds733	0.000950917	0	2.18551	hypothetical protein
+cds1164	0.000945001	0	1.88386	nicotinamide mononucleotide transporter PnuC
+cds1338	0.000928727	0	1.61181	phosphopantetheine adenylyltransferase
+cds193	0.000914193	1.59613e-05	1.20374	carboxylate transporter
+cds51	0.000906205	0	2.48276	hypothetical protein
+cds266	0.000894798	0	1.24302	diaminopimelate decarboxylase
+cds50	0.000893389	0	1.83158	hypothetical protein
+cds647	0.000891784	0	1.32348	ribosomal protein S12 methylthiotransferase
+cds1243	0.000888978	0	1.75904	rod shape-determining protein MreC
+cds1060	0.00088077	4.66428e-05	1.11774	pyrimidine nucleoside transport protein NupC
+cds935	0.000880163	0	2.24444	hypothetical protein
+cds337	0.000875886	0	1.88656	deoxycytidine triphosphate deaminase
+cds1016	0.000872478	0	1.03901	ATP synthase subunit beta
+cds1441	0.000864071	0	1.44867	flagellar basal body rod protein FlgG
+cds357	0.000859102	0	1.22595	histidine kinase CheA
+cds645	0.000856864	0	2.5098	hypothetical protein
+cds1106	0.000853118	0	1.81031	DNA replication regulator family protein
+cds1111	0.000851974	0	1.49679	membrane protein
+cds288	0.000846506	0	1.51242	ATP-binding protein
+cds1218	0.000841566	1.483e-05	1.73354	magnesium transport protein CorA
+cds536	0.000840155	0	1.2091	hypothetical protein
+cds1114	0.000836825	0	1.4408	formamidase
+cds651	0.000834299	2.22446e-05	1.50862	D-alanine--D-alanine ligase
+cds934	0.000833264	4.23158e-05	1.17601	translation initiation factor IF-2
+cds15	0.000823237	5.84144e-05	1.47589	hypothetical protein
+cds1137	0.000820377	0	1.41301	NADH-quinone oxidoreductase subunit D
+cds278	0.000817578	0	1.23048	dipeptide ABC transporter ATP-binding protein DppF
+cds378	0.000816426	0	1.53761	cyclopropane fatty acid synthase
+cds1070	0.00080744	0	1.36571	ADP-heptose-LPS heptosyltransferase II RfaF
+cds46	0.000791098	8.734e-06	1.36088	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+cds966	0.000785873	0	1.57368	restriction endonuclease
+cds494	0.000785467	0	1.58102	rRNA small subunit methyltransferase I
+cds1094	0.000776718	0	1.54118	phosphoribosylamine--glycine ligase
+cds1152	0.00077595	1.24274e-05	1.26904	tryptophan synthase subunit beta
+cds1411	0.000775159	1.1623e-05	1.63951	elongation factor Ts
+cds806	0.000773487	2.96887e-05	1.64883	hydrogenase/urease nickel incorporation protein HypB
+cds958	0.00077225	4.41525e-05	1.26899	copper-transporting ATPase
+cds613	0.000765473	0	1.16309	succinyl-CoA:3-ketoacid-CoA transferase subunit A
+cds621	0.000763096	4.75802e-06	1.30837	DNA gyrase subunit A
+cds1007	0.000758916	0	3.04329	hypothetical protein
+cds283	0.000742852	0	2.21612	F0F1 ATPase subunit
+cds1352	0.000742581	1.14307e-05	1.50098	hypothetical protein
+cds1156	0.000742036	4.84942e-05	1.51297	anthranilate synthase component I
+cds553	0.000737144	0	1.69851	chemotaxis protein CheV
+cds341	0.000735658	0	1.78607	ferrochelatase
+cds1365	0.000730239	6.5924e-05	1.25602	cation-transporting ATPase
+cds463	0.000728131	0	1.57641	Sel1 repeat-containing protein
+cds703	0.00071168	0	1.5313	ATP-dependent Clp protease proteolytic subunit
+cds987	0.000706489	0	1.7076	6-phosphogluconolactonase
+cds34	0.000705952	0	1.66667	type IV secretory pathway protein
+cds1212	0.000704306	0	2.03579	nickel responsive regulator
+cds1433	0.000700857	0	1.55093	ABC transporter permease
+cds777	0.00069275	0	1.08762	flagellar hook protein FlgE
+cds40	0.000691047	0	1.53575	agmatine deiminase
+cds1376	0.000686035	0	1.5867	transcription termination/antitermination protein NusA
+cds1064	0.000681831	1.9795e-05	1.31159	multidrug transporter
+cds666	0.000677694	0	2.72917	5-formyltetrahydrofolate cyclo-ligase
+cds1142	0.000676667	0	1.57315	NADH-quinone oxidoreductase subunit I
+cds49	0.000671892	1.51637e-05	1.37183	hypothetical protein
+cds1258	0.000670001	0	1.34853	DNA polymerase III subunit epsilon
+cds689	0.00066525	0	1.01171	aconitate hydratase B
+cds1090	0.000661733	0	2.21698	ATP synthase subunit C
+cds256	0.000660821	0	1.42148	lipid A biosynthesis lauroyl acyltransferase
+cds1422	0.000657667	0	1.85811	membrane protein
+cds901	0.000648762	0	1.39867	4-hydroxy-tetrahydrodipicolinate synthase
+cds803	0.000647623	0	1.22648	hypothetical protein
+cds606	0.000645999	0	1.41656	ribonucleotide-diphosphate reductase subunit alpha
+cds968	0.000644821	9.20862e-06	1.53502	multidrug ABC transporter ATP-binding protein/permease
+cds161	0.000639761	0	1.48227	elongation factor P
+cds557	0.000630898	9.90114e-06	1.36916	endonuclease MutS2
+cds1320	0.000630394	0	1.80569	lipoprotein
+cds618	0.00062815	0	2.03748	acetone carboxylase subunit gamma
+cds578	0.000626746	2.83317e-05	1.54605	lytic murein transglycosylase
+cds601	0.000624096	0	1.57934	membrane protein
+cds188	0.00062036	0	1.58684	membrane protein
+cds974	0.000618453	0	1.37175	transketolase
+cds306	0.000617908	0	1.68897	septum site-determining protein MinD
+cds87	0.000607589	1.56079e-05	1.63595	hypothetical protein
+cds208	0.000606691	0	1.71038	3-deoxy-manno-octulosonate cytidylyltransferase
+cds622	0.000604857	0	1.7673	hypothetical protein
+cds546	0.000598512	0	1.36123	membrane protein
+cds1324	0.000597895	0	1.54701	cytochrome c551 peroxidase
+cds653	0.00059509	1.12802e-05	1.47503	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+cds1428	0.000590452	0	1.57015	lytic transglycosylase
+cds217	0.000590218	1.1013e-05	1.51111	glutamyl-tRNA reductase
+cds1221	0.000584616	0	1.43447	uracil-DNA glycosylase
+cds86	0.000583549	1.48345e-05	1.57939	methyl-accepting chemotaxis protein TlpA
+cds331	0.000583178	0	1.67937	protein-L-isoaspartate O-methyltransferase
+cds1045	0.000582934	0	1.59179	thioredoxin reductase
+cds1340	0.000581578	0	1.6347	flagellar basal body P-ring biosynthesis protein FlgA
+cds1145	0.000580115	0	1.12616	NADH-quinone oxidoreductase subunit L
+cds227	0.000578591	0	1.78889	hypothetical protein
+cds1100	0.000574285	0	1.69604	uroporphyrinogen-III synthase
+cds658	0.000574202	0	1.38333	hypothetical protein
+cds735	0.00057408	0	1.39209	thioredoxin reductase
+cds1051	0.000571011	0	1.60268	glutamine ABC transporter permease GlnP
+cds1288	0.000567494	0	1.12567	flagellum-specific ATP synthase
+cds63	0.000566697	0	1.89662	lipoprotein signal peptidase
+cds1256	0.000566082	0	1.73883	fructose-1%2C6-bisphosphatase
+cds679	0.000563977	0	1.85479	molybdenum cofactor guanylyltransferase
+cds1125	0.000563045	0	1.48359	hypothetical protein
+cds1348	0.000562746	0	1.84293	hypothetical protein
+cds1330	0.000557708	0	1.35201	membrane protein
+cds1346	0.000556703	0	1.7085	ubiquinone/menaquinone biosynthesis methyltransferase
+cds867	0.00055404	2.98563e-05	1.16291	cation efflux system protein CzcA
+cds220	0.000548797	0	2.9193	hypothetical protein
+cds947	0.00054837	0	1.48031	Sec-independent protein translocase protein TatC
+cds543	0.000547143	0	1.59056	3-methyladenine DNA glycosylase
+cds218	0.000546592	0	1.92857	octaprenyl-diphosphate synthase IspB
+cds247	0.000538779	0	1.58028	hypothetical protein
+cds21	0.000537376	0	1.18305	membrane protein
+cds1265	0.000536254	1.45596e-05	1.4781	DNA repair protein RecN
+cds101	0.000531566	0	1.44303	hypothetical protein
+cds1154	0.000531499	0	1.58532	anthranilate phosphoribosyltransferase
+cds100	0.000526606	0	2.30976	hypothetical protein
+cds126	0.00052588	0	1.87791	hypothetical protein
+cds135	0.000522916	0	1.82051	hypothetical protein
+cds349	0.00052279	0	1.50996	hypothetical protein
+cds1255	0.000522257	0	2.55072	hypothetical protein
+cds497	0.000520117	0	1.6837	membrane protein
+cds648	0.000518554	0	1.81602	phosphoribosyltransferase
+cds427	0.000517276	0	1.45905	glutamate--tRNA ligase
+cds356	0.000516978	0	1.97992	chemotaxis protein CheW
+cds91	0.000516751	0	1.10424	2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase
+cds1050	0.000516446	0	1.68043	glutamine ABC transporter permease GlnP
+cds58	0.000515431	0	1.61569	urease accessory protein UreF
+cds8	0.000514124	0	2.28852	co-chaperonin GroES
+cds38	0.000511857	0	1.62863	hydrogenase expression/formation protein HypE
+cds298	0.000510613	0	1.86004	nuclease NucT
+cds765	0.000510197	0	1.49784	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenylyltransferase
+cds687	0.000510107	1.0858e-05	1.58368	uridylate kinase
+cds64	0.000509775	0	1.40658	phosphoglucosamine mutase
+cds778	0.000508564	0	1.63129	CDP-diacylglycerol pyrophosphatase
+cds1135	0.00050305	0	1.57083	NADH-quinone oxidoreductase subunit B
+cds1034	0.000502675	0	1.38095	valine--tRNA ligase
+cds851	0.000500949	0	1.64231	damage-inducible protein CinA
+cds1426	0.000496607	0	2.0303	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+cds1350	0.000496293	0	1.5674	hypothetical protein
+cds1296	0.000495384	0	1.71201	rRNA small subunit methyltransferase A
+cds783	0.000494006	0	1.19655	outer membrane protein
+cds467	0.000493439	1.85208e-05	1.55363	type IV secretion system protein
+cds903	0.000491738	0	1.80079	membrane protein
+cds1290	0.000491454	0	1.35975	isoleucine--tRNA ligase
+cds619	0.000490601	0	1.59767	hypothetical protein
+cds876	0.000485239	0	1.27857	cell division protein FtsA
+cds716	0.00048468	0	1.24323	iron(III) dicitrate transport protein FecA
+cds945	0.000483724	0	1.47181	Holliday junction DNA helicase RuvB
+cds57	0.000482916	0	1.65667	urease accessory protein UreG
+cds816	0.000482615	0	1.21964	membrane protein
+cds631	0.000480933	1.09128e-05	1.71566	RNA polymerase factor sigma-54
+cds814	0.000478359	0	1.66404	adenine-specific DNA methyltransferase
+cds361	0.000478051	1.54571e-05	1.44895	menaquinone biosynthesis decarboxylase
+cds66	0.000477927	0	1.46648	peptide chain release factor 1
+cds123	0.000475179	0	2.122	peroxiredoxin bcp
+cds9	0.000473121	2.09486e-05	1.42202	DNA primase
+cds820	0.000471504	0	2.00926	hypothetical protein
+cds277	0.000470802	0	1.26852	dipeptide ABC transporter ATP-binding protein DppD
+cds530	0.000469833	0	1.70468	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+cds1225	0.000468683	0	1.82245	hypothetical protein
+cds502	0.000462514	0	1.71237	3-oxoacyl-ACP reductase
+cds1438	0.000461615	0	1.55894	pyridoxine 5'-phosphate synthase
+cds1284	0.000459137	1.72329e-05	1.58605	lipopolysaccharide 1%2C2-glucosyltransferase RfaJ
+cds1105	0.00045877	0	1.20772	aspartokinase
+cds1268	0.0004577	0	1.12861	alanine dehydrogenase
+cds221	0.00045528	0	2.42759	DNA protection during starvation protein
+cds1017	0.000454074	0	1.53974	ATP synthase subunit gamma
+cds424	0.000448747	0	1.85425	molybdenum ABC transporter substrate-binding protein ModA
+cds1161	0.00044702	0	1.9159	aminopyrimidine aminohydrolase
+cds446	0.000446151	0	1.46426	sodium- and chloride-dependent transporter
+cds598	0.000445745	0	1.42722	coproporphyrinogen III oxidase
+cds1343	0.000444899	0	1.41106	serine--tRNA ligase
+cds60	0.000439472	0	1.61395	acid-activated urea channel
+cds1385	0.000438651	0	1.38958	hypothetical protein
+cds96	0.000433401	1.03734e-05	1.29308	molecular chaperone DnaK
+cds1146	0.000432805	0	1.27485	NADH-quinone oxidoreductase subunit M
+cds642	0.000432586	0	1.39311	tRNA-dihydrouridine synthase
+cds686	0.000429992	0	2.38824	DNA-directed RNA polymerase subunit omega
+cds311	0.00042936	0	0.917108	hypothetical protein
+cds99	0.00042751	0	2.66667	hypothetical protein
+cds942	0.000426936	1.42434e-05	1.71111	membrane protein
+cds736	0.000426342	0	1.58394	glycosyltransferase
+cds850	0.00042602	0	1.74595	recombination protein RecO
+cds821	0.000425719	0	1.28729	carbamoyl phosphate synthase large subunit
+cds862	0.000424827	0	1.09524	hypothetical protein
+cds544	0.000424144	0	1.6193	hypothetical protein
+cds1409	0.00042317	1.92207e-05	1.49049	recombination protein RecB
+cds603	0.00042256	0	1.48118	integrase/recombinase
+cds1173	0.000421281	0	1.3622	methionine aminopeptidase
+cds55	0.000420319	0	1.35777	ATP-binding protein
+cds552	0.000419751	0	1.37747	NAD-dependent DNA ligase LigA
+cds927	0.000419471	0	1.30972	flagellar biosynthesis protein FlhA
+cds121	0.00041924	0	1.15333	phospho-2-dehydro-3-deoxyheptonate aldolase
+cds824	0.000418917	9.22183e-06	1.29183	hypothetical protein
+cds374	0.000415082	0	1.27701	GMP synthase
+cds416	0.000413214	0	1.47732	hypothetical protein
+cds447	0.00041202	0	1.45131	phospholipase A1
+cds509	0.000411965	0	1.64583	hypothetical protein
+cds673	0.000410997	0	1.78315	hypothetical protein
+cds1039	0.00041034	0	1.50129	pyrroline-5-carboxylate reductase
+cds230	0.00041015	0	1.4194	membrane protein
+cds210	0.000409937	0	1.44599	hypothetical protein
+cds187	0.000409025	0	1.56913	lipopolysaccharide biosynthesis protein
+cds138	0.000408749	0	1.71528	hypothetical protein
+cds547	0.000404935	0	1.59149	membrane protein
+cds459	0.000404853	0	1.66667	ATP-dependent protease peptidase subunit HslV
+cds215	0.000404047	0	1.24647	porphobilinogen deaminase
+cds832	0.00040126	0	1.79726	5'-nucleotidase SurE
+cds704	0.000400142	1.35084e-05	1.45206	trigger factor
+cds339	0.000400129	0	1.77093	rRNA small subunit methyltransferase E
+cds615	0.000399022	0	1.0989	short-chain fatty acids transporter
+cds1033	0.000397615	0	1.44395	signal recognition particle protein
+cds259	0.000395245	0	1.53198	3-dehydroquinate synthase
+cds1203	0.00039465	0	1.28797	cation efflux system protein CzCA
+cds923	0.000393759	0	1.41713	aminopeptidase
+cds270	0.000392439	0	1.38235	acylamide amidohydrolase
+cds305	0.000392097	0	1.40685	ketol-acid reductoisomerase
+cds421	0.000392075	0	1.52389	oligoendopeptidase F
+cds1399	0.000391121	0	1.45793	peptidase
+cds1316	0.00038773	0	1.29183	membrane protein
+cds352	0.000387372	7.68544e-06	1.52849	primosome assembly protein PriA
+cds269	0.000387332	0	1.36012	aminodeoxychorismate synthase component I
+cds1412	0.000386988	0	1.39394	cell division protein FtsI
+cds616	0.000386461	0	1.21429	acetone carboxylase subunit beta
+cds462	0.000384436	0	1.74622	hypothetical protein
+cds1085	0.000381421	0	1.37167	elongation factor Tu
+cds1075	0.000380523	0	2.22549	30S ribosomal protein S12
+cds1076	0.000379727	2.74007e-06	1.15589	DNA-directed RNA polymerase subunit beta/beta'
+cds583	0.000379446	0	1.6599	uracil-DNA glycosylase
+cds129	0.000376409	0	1.48734	DNA glycosylase MutY
+cds273	0.000375632	0	2.70037	50S ribosomal protein L27
+cds1371	0.00037548	0	1.76046	glycerol-3-phosphate acyltransferase PlsY
+cds81	0.000375042	0	1.6223	type II restriction-modification system methyltransferase
+cds351	0.000374434	0	2.94937	hypothetical protein
+cds240	0.000374232	0	1.28666	chaperone protein ClpB
+cds346	0.000371958	0	1.47774	SAM-dependent methyltransferase
+cds1312	0.000371143	0	1.88701	membrane protein insertion efficiency factor
+cds1174	0.000367691	0	1.3365	preprotein translocase subunit SecY
+cds840	0.00036712	0	1.6067	alanine racemase
+cds1351	0.000366189	0	1.44343	membrane protein
+cds1151	0.000366112	0	1.52598	tryptophan synthase subunit alpha
+cds1078	0.000366098	0	2.00529	50S ribosomal protein L7/L12
+cds688	0.000365659	0	1.59795	hypothetical protein
+cds875	0.00036548	0	1.50342	peptidylprolyl isomerase
+cds822	0.000362156	0	1.51515	membrane protein
+cds82	0.000360848	0	1.73635	hypothetical protein
+cds1397	0.000360444	4.75405e-06	1.331	transcription-repair coupling factor TrcF
+cds5	0.000360168	0	1.55355	pantothenate synthetase
+cds1215	0.000359691	0	1.31352	energy transducer TonB
+cds623	0.00035862	0	1.57766	hypothetical protein
+cds155	0.000356222	0	1.53316	molybdopterin biosynthesis protein MoeA
+cds271	0.000356051	0	1.43667	flagellar hook-associated protein FlgL
+cds1370	0.000351216	0	1.44953	cytochrome c oxidase accessory protein
+cds431	0.000350893	0	1.21222	GTP-binding protein
+cds929	0.000350524	0	1.92411	response regulator
+cds1061	0.000349492	0	1.28529	multidrug transporter
+cds1333	0.00034935	0	1.37589	DNA polymerase I
+cds362	0.000347592	2.29754e-05	1.57079	D-3-phosphoglycerate dehydrogenase
+cds741	0.00034737	2.18764e-05	1.78849	dephospho-CoA kinase
+cds18	0.000346928	0	1.98953	lipid A 1-phosphatase
+cds685	0.000345916	0	1.40936	penta-phosphate guanosine-3'-pyrophosphohydrolase
+cds1139	0.000345192	1.05531e-05	1.6383	hypothetical protein
+cds1435	0.000340589	0	1.70163	hypothetical protein
+cds1359	0.000339697	0	1.99255	50S ribosomal protein L25/general stress protein Ctc
+cds782	0.000338093	2.73036e-05	1.60408	catalase
+cds1124	0.000335603	0	1.79167	shikimate 5-dehydrogenase
+cds222	0.000331824	1.34391e-05	1.76003	signal-transducing histidine kinase
+cds1088	0.000331815	0	1.64141	adenine-specific DNA methyltransferase
+cds599	0.000331508	0	1.33794	glycerol-3-phosphate dehydrogenase
+cds1038	0.000328993	0	1.11346	membrane protein
+cds248	0.000327686	0	1.91011	membrane protein
+cds610	0.000326442	0	1.39974	iron(III) dicitrate transport protein FecA
+cds695	0.000326338	0	1.40916	preprotein translocase subunit SecA
+cds842	0.000325642	0	1.4193	D-amino acid dehydrogenase DadA
+cds954	0.000325268	0	1.7994	50S ribosomal protein L11 methyltransferase
+cds448	0.00032499	0	1.64889	DNA polymerase III subunit beta
+cds565	0.000323471	0	1.12035	Ni/Fe hydrogenase small subunit
+cds917	0.000323314	0	1.71991	flagellar motor switch protein FliY
+cds363	0.000323066	0	2.01821	hypothetical protein
+cds702	0.000318495	0	1.48762	peptide deformylase
+cds918	0.000317993	0	1.46291	flagellar motor switch protein FliM
+cds1295	0.000316142	0	1.1942	ribonuclease J
+cds576	0.000315489	0	1.5553	glutamylglutaminyl-tRNA synthetase
+cds140	0.000311712	0	1.42701	enolase
+cds479	0.000310881	0	1.8992	cag pathogenicity island protein cag16
+cds236	0.000310795	0	1.8355	adenine-specific DNA methyltransferase
+cds795	0.000310512	0	0.962283	iron chelatin transport system permease
+cds296	0.000310098	0	1.76812	guanylate kinase
+cds1176	0.000309959	0	1.82883	30S ribosomal protein S5
+cds1140	0.000305683	6.64321e-06	1.34517	NADH-quinone oxidoreductase subunit G
+cds1315	0.000304526	0	1.50216	tRNA modification GTPase TrmE
+cds1353	0.000302071	0	1.29037	membrane protein
+cds582	0.000299805	0	1.22033	aspartate ammonia-lyase
+cds449	0.000299793	0	1.41559	DNA gyrase subunit B
+cds1037	0.000299113	0	1.20134	membrane protein
+cds239	0.000298985	0	1.90382	adenine-specific DNA methyltransferase
+cds902	0.000297865	0	1.37643	7-alpha-hydroxysteroid dehydrogenase
+cds995	0.000297461	0	1.18791	pyruvate flavodoxin oxidoreductase subunit alpha
+cds73	0.000297229	0	1.88967	50S ribosomal protein L13
+cds1098	0.000293654	0	1.48437	D-lactate dehydrogenase
+cds1339	0.000293565	0	1.44326	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+cds696	0.000293258	0	1.61719	lipoprotein releasing system transmembrane protein
+cds872	0.000293084	0	1.44512	2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase
+cds225	0.000290881	0	1.27316	DEAD/DEAH box helicase
+cds422	0.000289402	0	1.58913	potassium transporter
+cds635	0.0002886	0	1.63823	L-lysine exporter
+cds1167	0.00028636	1.23924e-05	1.55845	DNA-directed RNA polymerase subunit alpha
+cds548	0.00028587	0	1.14286	multidrug resistance protein
+cds1342	0.000285441	0	1.39527	hypothetical protein
+cds1193	0.000283349	0	1.43576	50S ribosomal protein L3
+cds797	0.000282754	0	1.52571	acyl-CoA thioesterase
+cds1374	0.000280502	0	1.11883	hypothetical protein
+cds768	0.000279002	0	1.35493	membrane protein
+cds529	0.000277714	0	1.57576	hypothetical protein
+cds662	0.000277411	0	1.6143	peptidase M23
+cds131	0.000277337	0	1.39485	cbb3-type cytochrome c oxidase subunit II
+cds989	0.000275299	0	1.45463	cinnamyl-alcohol dehydrogenase
+cds241	0.000275058	0	1.4177	cytochrome c biogenesis protein CcdA
+cds1065	0.000273651	0	1.24575	sugar efflux transporter
+cds132	0.000272972	0	2.31532	cbb3-type cytochrome c oxidase subunit IV
+cds766	0.000272343	0	1.70393	ADP-glyceromanno-heptose 6-epimerase
+cds819	0.000271392	0	1.70267	TonB-dependent receptor
+cds0	0.000270553	0	1.89448	transcription antitermination protein NusB
+cds1123	0.000270377	4.59133e-06	1.50336	ribonuclease R
+cds253	0.000267905	0	2.78039	ferredoxin
+cds1205	0.000267623	0	1.73217	membrane protein
+cds1378	0.000267523	0	1.0224	hypothetical protein
+cds991	0.0002674	0	1.39985	hypothetical protein
+cds712	0.000265132	0	1.67143	hypothetical protein
+cds103	0.000264423	0	1.41746	DNA topoisomerase I
+cds1241	0.000264343	0	1.69433	adenine-specific DNA methyltransferase
+cds432	0.00026394	0	1.88579	hypothetical protein
+cds425	0.000263269	0	1.84	molybdenum ABC transporter permease ModB
+cds1027	0.00026268	0	1.2381	hypothetical protein
+cds944	0.000262445	0	1.60025	3-methyl-2-oxobutanoate hydroxymethyltransferase
+cds759	0.000262292	0	1.74735	hypothetical protein
+cds1222	0.000261915	0	1.61964	1-acylglycerol-3-phosphate O-acyltransferase
+cds1245	0.000261835	0	1.41685	ATP-dependent protease ATP-binding subunit ClpX
+cds1160	0.000261281	0	1.91439	hypothetical protein
+cds332	0.000260995	0	1.68324	ribonucleotide-diphosphate reductase subunit beta
+cds1003	0.000260424	0	1.18603	gamma-glutamyltranspeptidase
+cds487	0.000258328	0	2.06731	cag pathogenicity island protein cag24
+cds379	0.000257422	0	1.38658	methionine--tRNA ligase
+cds1354	0.000257112	0	1.0824	phosphate permease
+cds364	0.00025663	0	1.42908	30S ribosomal protein S1
+cds157	0.000256209	0	1.85586	hypothetical protein
+cds1264	0.000255535	0	1.65826	hypothetical protein
+cds35	0.000253101	0	1.56405	mannose-6-phosphate isomerase
+cds1172	0.000250263	0	2.44749	translation initiation factor IF-1
+cds120	0.000249818	0	1.42673	serine transporter SdaC
+cds1396	0.000249749	0	1.75992	ubiquinol cytochrome c oxidoreductase Rieske 2Fe-2S subunit
+cds910	0.000248771	0	1.33653	hypothetical protein
+cds531	0.000247645	0	1.19947	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+cds848	0.00024681	0	2.06623	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+cds1053	0.000245636	0	1.67386	glutamine ABC transporter substrate-binding protein GlnH
+cds13	0.000244258	0	2.66667	hypothetical protein
+cds209	0.000243557	0	1.50752	protein-disulfide isomerase
+cds541	0.000238026	0	1.70707	multidrug ABC transporter ATP-binding protein/permease
+cds1395	0.000237813	0	1.23164	ubiquinol cytochrome c oxidoreductase cytochrome b subunit
+cds435	0.000237574	0	1.49896	membrane protein
+cds1344	0.000236379	0	1.63659	hypothetical protein
+cds649	0.000235031	0	1.42793	serine-pyruvate aminotransferase
+cds1390	0.000232487	0	2.00431	thymidylate synthase
+cds1059	0.000232472	0	1.47907	phosphopentomutase
+cds72	0.000231872	0	1.95641	30S ribosomal protein S9
+cds997	0.000230422	0	1.44974	adenylosuccinate lyase
+cds794	0.000229877	0	1.32812	iron chelatin transport ATP-binding protein
+cds854	0.000229049	0	1.49942	prolipoprotein diacylglyceryl transferase
+cds1382	0.000228191	0	2.36207	lipoprotein
+cds1309	0.000227744	0	2.28856	biopolymer transport protein ExbD
+cds1224	0.000227644	0	1.52319	protease
+cds255	0.000225449	0	1.48289	lipopolysaccharide heptosyltransferase
+cds528	0.000225418	4.47894e-06	1.52147	hypothetical protein
+cds828	0.000224203	0	1.68499	tRNA pseudouridine synthase D
+cds19	0.000223212	0	1.54342	lipid A phosphoethanolamine transferase
+cds684	0.000222783	0	1.31844	tyrosine--tRNA ligase
+cds79	0.000219024	0	1.49355	malonyl CoA-ACP transacylase
+cds423	0.00021659	0	1.98217	membrane protein
+cds594	0.000216051	0	1.79861	ribonuclease H
+cds1425	0.000214957	0	1.86869	hypothetical protein
+cds127	0.000214241	0	1.31273	L-lactate permease LctP
+cds1055	0.000213359	0	1.4518	glucose/galactose transporter GluP
+cds366	0.000212511	0	1.53876	3-phosphoshikimate 1-carboxyvinyltransferase
+cds192	0.00021162	0	1.18114	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+cds484	0.000211428	0	2.17483	cag pathogenicity island protein cag21
+cds77	0.00021042	0	1.48065	RNA polymerase sigma factor RpoD
+cds1099	0.000210284	0	2.27027	rhodanese domain-containing protein
+cds1213	0.000209982	0	1.73054	biopolymer transport protein ExbB
+cds189	0.000209176	0	1.57181	chaperone protein HtpG
+cds1018	0.000207911	0	1.26257	ATP synthase subunit alpha
+cds1283	0.000207557	0	1.61798	tRNA dimethylallyltransferase
+cds1384	0.000207435	0	1.85126	exodeoxyribonuclease III
+cds936	0.000206476	0	1.4966	homoserine kinase
+cds252	0.000205036	0	2.03584	hypothetical protein
+cds856	0.000204669	0	1.40525	3-deoxy-D-manno-octulosonic acid transferase
+cds754	0.000204581	0	1.53749	type I restriction-modification system endonuclease
+cds747	0.000203795	0	1.14512	hypothetical protein
+cds2	0.000201142	0	1.50782	2-dehydro-3-deoxyphosphooctonate aldolase
+cds211	0.000198866	0	1.50895	glutathionylspermidine synthase
+cds519	0.000198465	0	1.41973	hypothetical protein
+cds1101	0.000198242	0	2.14758	camphor resistance protein CrcB
+cds957	0.000196476	0	1.62605	CDP-diacylglycerol--serine O-phosphatidyltransferase
+cds1004	0.000196283	0	1.44371	flagellar hook-associated protein FlgK
+cds1063	0.000195891	0	1.51302	Na+/H+ antiporter NapA
+cds176	0.000193451	0	1.90071	triosephosphate isomerase
+cds377	0.000193136	0	1.42628	mechanosensitive ion channel protein
+cds579	0.000192663	0	1.59124	UTP--glucose-1-phosphate uridylyltransferase
+cds742	0.000192419	0	1.79975	polyamine aminopropyl transferase
+cds874	0.000192393	0	1.47826	adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA
+cds986	0.000191459	0	1.55869	6-phosphogluconolactonase
+cds426	0.000189466	0	1.79699	molybdenum ABC transporter ATP-binding protein ModD
+cds976	0.000189207	0	1.19053	DNA translocase FtsK
+cds515	0.000188696	0	1.94079	ribose-5-phosphate isomerase B
+cds186	0.000187484	0	1.26312	multiple resistance/pH adaption protein mrp
+cds412	0.000187311	0	1.8021	VirB4 family type IV secretion/conjugal transfer ATPase
+cds478	0.000184647	0	2.65797	cag pathogenicity island protein cag15
+cds597	0.000183119	0	1.77907	hypothetical protein
+cds167	0.000182518	0	1.49161	serine hydroxymethyltransferase
+cds110	0.000181654	0	1.34747	threonine--tRNA ligase
+cds1398	0.000181206	0	2.05353	cell shape deternining membrane protein
+cds1363	0.000180424	0	1.42502	membrane protein
+cds147	0.000176074	0	1.64592	transcriptional regulator
+cds1013	0.000175256	0	2.11692	biopolymer transport protein ExbD
+cds985	0.000173503	0	1.31253	phosphogluconate dehydratase
+cds1273	0.000173136	0	1.44336	type I restriction-modification system methyltransferase
+cds533	0.00017298	0	1.73084	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+cds907	0.000172894	0	1.73244	chemotaxis protein CheY
+cds1201	0.000171151	0	1.62147	membrane protein
+cds1381	0.000171143	0	1.57585	ATP-dependent DNA helicase RecG
+cds898	0.000171131	0	1.4571	polyphosphate kinase
+cds701	0.000171127	0	1.47929	Fis family transcriptional regulator
+cds973	0.000170179	0	1.65718	bifunctional riboflavin kinase/FMN adenylyltransferase
+cds65	0.000169971	0	2.72963	30S ribosomal protein S20
+cds919	0.000169481	0	1.73958	flagellar biosynthesis sigma factor
+cds1332	0.000168851	0	1.49531	membrane protein
+cds853	0.000168057	0	1.89258	oxygen-insensitive NAD(P)H nitroreductase
+cds485	0.000166261	0	2.10285	cag pathogenicity island protein cag22
+cds913	0.00016619	0	1.55442	recombination factor protein RarA
+cds728	0.000165765	0	1.76805	osmoprotectant ABC transporter ATP-binding protein ProV
+cds1403	0.000165387	0	1.32879	leucine--tRNA ligase
+cds235	0.000164497	0	1.41805	exodeoxyribonuclease VII large subunit
+cds450	0.000163478	0	1.58251	membrane protein
+cds812	0.000163411	0	1.23047	flagellar hook protein FlgE
+cds263	0.000162921	0	1.91908	hypothetical protein
+cds1313	0.000162718	0	1.45803	membrane protein insertase YidC
+cds142	0.000161884	0	1.82421	hypothetical protein
+cds771	0.000161452	0	1.793	hypothetical protein
+cds1197	0.000160163	0	1.89683	ribonuclease HII
+cds1341	0.000154867	0	1.36164	DNA helicase II UvrD
+cds609	0.00015485	0	1.40937	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+cds520	0.000154637	0	1.86847	Kdo hydrolase subunit 2
+cds637	0.000154563	0	1.47729	membrane protein
+cds539	0.000154495	0	1.64349	8-amino-7-oxononanoate synthase
+cds265	0.000154023	2.9514e-06	1.12175	toxin-like outer membrane protein
+cds130	0.000153961	0	1.23926	cbb3-type cytochrome c oxidase subunit I
+cds1416	0.000153562	0	0.993145	cell division protein FtsW
+cds276	0.000152992	0	0.982517	dipeptide ABC transporter permease DppC
+cds591	0.000152518	0	1.36415	aspartyl/glutamyl-tRNA amidotransferase subunit B
+cds572	0.000152167	0	1.50661	7-cyano-7-deazaguanine synthase QueC
+cds490	0.000151377	0	1.52429	cytotoxicity-associated immunodominant antigen
+cds612	0.000151013	0	1.2449	acetyl CoA acetyltransferase
+cds465	0.000150521	0	1.60304	cag pathogenicity island protein cag3
+cds1413	0.000150269	0	2.56364	flagellar hook-basal body protein FliE
+cds338	0.000150068	0	1.45792	membrane protein
+cds1231	0.000148284	0	1.72464	hypothetical protein
+cds316	0.000148016	0	1.43701	pseudouridine synthase
+cds1199	0.000146587	0	1.39799	fumarate hydratase
+cds1271	0.000142451	0	2.05226	metal-dependent hydrolase
+cds1036	0.00014187	0	1.7533	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+cds282	0.000141435	0	1.22892	glutamate-1-semialdehyde aminotransferase
+cds1130	0.000141284	0	1.46205	preprotein translocase subunit SecG
+cds744	0.000141255	0	1.50617	GTPase Der
+cds595	0.000140376	0	1.44813	ribonuclease III
+cds561	0.000140371	0	1.55	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+cds511	0.000139757	0	1.24145	cytosol aminopeptidase
+cds1021	0.000138352	0	1.94713	ATP synthase subunit B'
+cds1108	0.000138213	0	1.50394	bifunctional dihydropteroate synthase/dihydropteroate reductase
+cds1091	0.000138063	0	1.39284	polynucleotide phosphorylase
+cds1282	0.000137706	0	2.39181	hypothetical protein
+cds791	0.000137261	0	1.51371	lipid II flippase MurJ
+cds10	0.000136988	0	1.40741	ATP-binding protein
+cds71	0.000136805	0	1.26607	methyl-accepting chemotaxis transducer TlpC
+cds1306	0.000136646	0	1.70632	4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+cds26	0.000136071	0	2.33782	hypothetical protein
+cds216	0.000135746	0	1.30911	proline--tRNA ligase
+cds1375	0.00013466	0	1.43239	L-seryl-tRNA(Sec) selenium transferase
+cds849	0.000133604	0	1.47816	acetyl-CoA carboxylase carboxyl transferase subunit beta
+cds372	0.000132418	0	1.33375	biotin sulfoxide reductase
+cds194	0.000132093	0	0.927591	phosphatidate cytidylyltransferase
+cds156	0.000131681	0	1.52344	flagellar biosynthesis protein FliR
+cds231	0.000131025	0	1.39078	adenylosuccinate synthetase
+cds652	0.000130163	0	1.81543	phosphatidylglycerophosphatase
+cds965	0.000129572	0	1.68284	ATP/GTP phosphatase
+cds1069	0.00012945	0	1.44921	histidine--tRNA ligase
+cds345	0.00012935	0	1.12992	glutamate dehydrogenase
+cds206	0.000129037	0	1.3214	sulfate permease
+cds709	0.000128848	0	1.92694	molybdopterin synthase catalytic subunit
+cds1082	0.000128706	0	1.9548	transcription antitermination protein NusG
+cds143	0.000128114	0	1.89775	shikimate kinase
+cds125	0.000127787	0	1.38451	iron-sulfur cluster-binding protein
+cds711	0.000127716	0	1.63385	GTP cyclohydrolase II
+cds133	0.000126714	0	1.4971	cbb3-type cytochrome c oxidase subunit III
+cds460	0.000126705	0	1.56682	ATP-dependent protease ATP-binding subunit HslU
+cds442	0.000126578	0	1.55792	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+cds1052	0.000126306	0	1.62249	glutamine ABC transporter ATP-binding protein GlnQ
+cds191	0.000125979	0	1.29167	succinyl-diaminopimelate desuccinylase
+cds1386	0.000125547	0	1.42795	chromosome replication initiator DnaA
+cds1389	0.000124923	0	1.49052	glucosamine--fructose-6-phosphate aminotransferase
+cds522	0.00012358	0	1.36765	dihydroorotase
+cds839	0.000122864	0	1.63424	amino acid ABC transporter substrate-binding protein
+cds354	0.000121941	0	1.93146	iron-dependent superoxide dismutase
+cds11	0.000121741	0	1.63889	hypothetical protein
+cds318	0.000120965	0	1.39208	CTP synthetase
+cds1303	0.000117107	0	1.70128	hypothetical protein
+cds33	0.000116919	0	1.48864	hypothetical protein
+cds172	0.000116877	0	1.3446	hypothetical protein
+cds590	0.000116763	0	1.43187	Zn-dependent protease
+cds294	0.000115042	0	1.48954	arginine--tRNA ligase
+cds560	0.000113461	0	1.58511	succinyldiaminopimelate transaminase
+cds268	0.000112988	0	1.63803	hypothetical protein
+cds200	0.000112349	0	1.31702	nitrogen fixation protein NifU
+cds128	0.000112322	0	1.2035	L-lactate permease LctP
+cds1234	0.00011207	0	1.54601	replicative DNA helicase
+cds1323	0.000111745	0	1.22992	DNA polymerase III subunit alpha
+cds228	0.000111479	7.23018e-06	1.48936	ABC transporter ATP-binding protein
+cds740	0.000111372	0	1.28341	glutamyl-tRNA amidotransferase subunit A
+cds61	0.000111156	0	1.22047	urease subunit beta
+cds1244	0.000109902	0	1.18966	rod shape-determining protein MreB
+cds773	0.000108733	0	1.93939	transcription elongation factor GreA
+cds56	0.000108305	0	1.46992	urease accessory protein UreH
+cds860	0.000108154	0	1.20447	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+cds857	0.000107029	0	1.75163	zinc ribbon domain-containing protein
+cds173	0.000106271	0	1.48509	fumarate reductase iron-sulfur subunit
+cds830	0.000104481	0	1.8895	GTP cyclohydrolase I
+cds858	0.000103882	0	1.6571	GTP cyclohydrolase I
+cds864	0.000103744	0	1.60285	hypothetical protein
+cds678	0.000103363	0	1.61905	cyclic pyranopterin monophosphate synthase
+cds78	0.000103323	0	1.44253	aminodeoxyfutalosine nucleosidase
+cds149	0.000102845	0	2.0059	response regulator OmpR
+cds260	0.000102592	0	1.45865	membrane protein
+cds340	0.000102382	0	2.31713	membrane protein
+cds254	0.000101769	0	1.42955	exopolyphosphatase
+cds295	0.000100718	0	2.75833	preprotein translocase subunit TatA
+cds1327	0.000100212	0	1.5625	hypothetical protein
+cds496	9.95063e-05	0	1.76605	hypothetical protein
+cds941	9.92458e-05	0	1.62963	membrane protein
+cds17	9.89885e-05	0	1.21593	carboxynorspermidine decarboxylase NspC
+cds748	9.8125e-05	0	1.32236	UDP-N-acetylglucosamine 4%2C6-dehydratase
+cds656	9.72944e-05	0	1.44154	rod shape-determining protein RodA
+cds517	9.65822e-05	0	1.54296	signal peptidase I LepB
+cds700	9.52121e-05	0	1.08928	cadmium%2C zinc and cobalt-transporting ATPase
+cds69	9.50888e-05	0	1.20034	hypothetical protein
+cds280	9.46406e-05	0	1.42727	hypothetical protein
+cds725	9.46148e-05	0	1.60078	flagellar motor protein MotB
+cds939	9.4452e-05	0	1.75382	septum site-determining protein MinC
+cds499	9.42529e-05	0	1.64111	acetyl-CoA carboxylase carboxyl transferase subunit alpha
+cds1269	9.3645e-05	0	1.516	arginase
+cds1148	9.36129e-05	0	1.45968	hypothetical protein
+cds921	9.3224e-05	0	1.53261	flagellar biosynthesis regulator FlhF
+cds202	9.32113e-05	0	1.14077	DNA repair protein RadA
+cds23	9.31923e-05	0	1.29734	isocitrate dehydrogenase
+cds1116	9.21716e-05	0	1.15016	alanine--tRNA ligase
+cds178	9.15986e-05	0	1.20475	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+cds111	9.142e-05	0	1.60621	translation initiation factor IF-3
+cds680	9.02108e-05	0	1.48747	flagellar biosynthesis protein FlhB
+cds323	8.96132e-05	0	1.31449	1-deoxy-D-xylulose-5-phosphate synthase
+cds540	8.94296e-05	0	1.67896	methyl-accepting chemotaxis protein
+cds1022	8.91918e-05	0	1.62314	ParB/RepB/Spo0J family partition protein
+cds920	8.81455e-05	0	1.54124	flagellar biosynthesis regulator
+cds545	8.73749e-05	0	1.49951	uroporphyrinogen decarboxylase
+cds1233	8.7346e-05	0	1.5311	DNA internalization-related competence protein ComEC
+cds473	8.72767e-05	0	2.0303	type IV secretion system protein
+cds451	8.70712e-05	0	1.87011	NUDIX hydrolase
+cds330	8.6252e-05	0	1.4894	permease
+cds504	8.61325e-05	0	1.60512	hypothetical protein
+cds1298	8.31795e-05	0	1.70522	formyltetrahydrofolate hydrolase PurU
+cds452	8.29343e-05	0	1.2362	plasminogen-binding protein PgbA
+cds870	8.27483e-05	0	1.45774	glycine--tRNA ligase subunit beta
+cds661	8.19112e-05	0	1.69021	protein insertion permease FtsX
+cds1112	8.13691e-05	0	1.99457	hypothetical protein
+cds1439	8.08612e-05	0	1.41234	4-hydroxythreonine-4-phosphate dehydrogenase
+cds160	8.04109e-05	0	1.38961	fructose-bisphosphate aldolase
+cds475	8.03537e-05	0	2.04152	cag pathogenicity island protein cag12
+cds328	7.99564e-05	0	1.65797	UDP-glucose 4-epimerase
+cds967	7.99233e-05	0	1.71154	hypothetical protein
+cds516	7.98407e-05	0	1.7897	peptidase
+cds542	7.96668e-05	0	1.27462	flagellin A
+cds483	7.95853e-05	0	1.54987	cag pathogenicity island protein cag20
+cds1293	7.87149e-05	0	1.51117	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+cds562	7.84615e-05	0	1.37396	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase
+cds823	7.81935e-05	0	1.68769	glyceraldehyde-3-phosphate dehydrogenase
+cds845	7.8173e-05	0	1.41113	sodium:proton antiporter
+cds611	7.70194e-05	0	1.32556	ferrous iron transport protein FeoB
+cds955	7.66444e-05	0	1.36546	cell division protein FtsH
+cds1401	7.5761e-05	0	1.59831	bifunctional folylpolyglutamate synthase/dihydrofolate synthase FolC
+cds510	7.55586e-05	0	1.33787	GTP-binding protein
+cds445	7.46179e-05	0	1.38149	sodium- and chloride-dependent transporter
+cds1206	7.31619e-05	0	1.45946	molecular chaperone DnaJ
+cds538	7.272e-05	0	1.33838	penicillin-binding protein 1A
+cds1219	7.23354e-05	0	1.45161	phosphoglycerate kinase
+cds790	7.2309e-05	0	1.44119	hypothetical protein
+cds261	7.22026e-05	0	1.43596	radical SAM methylthiotransferase
+cds1238	7.18818e-05	0	1.29638	type IIS restriction-modification system endonuclease
+cds1010	7.18558e-05	0	1.73494	hypothetical protein
+cds1291	7.09839e-05	0	2.60392	hypothetical protein
+cds415	7.04665e-05	0	1.32071	type I restriction-modification system endonuclease
+cds251	7.0043e-05	0	1.65739	ATP-dependent nuclease AddB
+cds1086	6.97082e-05	0	1.53713	multidrug transporter
+cds1068	6.95652e-05	0	1.68012	aspartate-semialdehyde dehydrogenase
+cds781	6.89894e-05	0	1.629	hypothetical protein
+cds643	6.88824e-05	0	1.54204	tRNA(Ile)-lysidine synthetase
+cds818	6.73323e-05	0	1.37217	membrane protein
+cds1250	6.71223e-05	0	1.31499	ATP-dependent protease
+cds792	6.64288e-05	0	1.45064	cysteine--tRNA ligase
+cds749	6.62841e-05	0	1.34116	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+cds14	6.50476e-05	0	1.42386	VirB4 family type IV secretion/conjugal transfer ATPase
+cds32	6.50154e-05	0	1.55025	PDZ domain-containing protein
+cds1421	6.4749e-05	0	1.26203	penicillin-binding protein 2
+cds925	6.37811e-05	0	1.4814	lipid A core--O-antigen ligase
+cds1006	6.36355e-05	0	1.78488	cytosine specific DNA methyltransferase
+cds573	6.35523e-05	0	1.56162	tRNA nucleotidyltransferase/poly(A) polymerase
+cds324	6.29259e-05	0	1.30182	elongation factor 4
+cds721	6.2458e-05	0	1.42829	S-adenosyl-L-methionine-dependent methyltransferase
+cds1049	6.22658e-05	0	1.00388	carbon starvation protein CstA
+cds1122	6.21454e-05	0	1.5914	DNA polymerase III subunit delta
+cds320	6.09243e-05	0	1.43662	flagellar MS-ring protein FliF
+cds85	6.06871e-05	0	1.31759	threonine synthase
+cds588	6.0292e-05	0	1.13959	outer membrane protein assembly factor BamA
+cds1369	6.02065e-05	0	1.38601	saccharopine dehydrogenase
+cds644	5.98554e-05	0	1.647	hypothetical protein
+cds1128	5.90273e-05	0	1.68039	tryptophan--tRNA ligase
+cds793	5.79715e-05	0	1.25484	vacuolating cytotoxin autotransporter
+cds566	5.70039e-05	0	1.25504	Ni/Fe hydrogenase large subunit
+cds367	5.42776e-05	0	1.36514	phenylalanine--tRNA ligase subunit beta
+cds975	5.40107e-05	0	1.54685	hypothetical protein
+cds419	5.38555e-05	0	1.39315	hypothetical protein
+cds815	5.30134e-05	0	1.33629	ATP-dependent DNA helicase
+cds258	5.18629e-05	0	1.5447	hypothetical protein
+cds274	5.1817e-05	0	1.40242	dipeptide ABC transporter substrate-binding protein DppA
+cds1056	5.04083e-05	0	1.37997	guanine permease
+cds414	5.00903e-05	0	1.50956	type I restriction-modification system methyltransferase
+cds1408	4.91956e-05	0	1.38497	pH-dependent sodium/proton antiporter
+cds472	4.47398e-05	0	1.68221	cag pathogenicity island protein cag9
+cds692	4.45957e-05	0	1.40132	membrane protein
+cds174	4.41572e-05	0	0.99627	fumarate reductase flavoprotein subunit
+cds1207	4.37625e-05	0	1.45083	hypothetical protein
+cds1058	4.28886e-05	0	1.74501	purine-nucleoside phosphorylase DeoD
+cds624	4.15428e-05	0	1.17486	excinuclease ABC subunit A
+cds554	4.15005e-05	0	1.38062	aspartate--tRNA ligase
+cds1223	4.12988e-05	0	1.57818	hypothetical protein
+cds1406	3.99607e-05	0	1.04753	preprotein translocase subunit SecD
+cds262	3.99409e-05	0	1.43618	ATP-dependent zinc metalloprotease FtsH
+cds751	3.78423e-05	0	1.49545	thiamine-phosphate pyrophosphorylase
+cds521	3.69272e-05	0	1.02949	Kdo hydrolase subunit 2
+cds347	3.23846e-05	0	1.48693	zinc-metallo protease
+cds998	3.21888e-05	0	1.56355	membrane protein
+cds1272	3.07513e-05	0	1.4896	type I restriction-modification system endonuclease
+cds1380	2.90227e-05	0	1.35227	type III restriction-modification system endonuclease
+cds587	2.6251e-05	0	1.63804	menaquinone biosynthesis radical SAM protein
+cds486	1.97666e-05	0	1.58774	type IV secretion/conjugal transfer ATPase
+cds1242	1.18652e-06	0	1.56037	helicase
+cds12	0	0	2.34752	hypothetical protein
+cds1	0	0	1.6518	6%2C7-dimethyl-8-ribityllumazine synthase
+cds4	0	0	1.70175	orotidine 5'-phosphate decarboxylase
+cds27	0	0	1.90338	universal stress protein
+cds30	0	0	1.94068	aspartate 1-decarboxylase
+cds28	0	0	1.76087	ATP-dependent Clp protease adapter protein
+cds24	0	0	1.79588	hypothetical protein
+cds16	0	0	1.4441	chemotaxis protein CheV
+cds31	0	0	2.27551	nucleoid-associated protein
+cds25	0	0	1.47793	ATP-dependent dethiobiotin synthetase BioD
+cds47	0	0	2.99524	hypothetical protein
+cds41	0	0	1.65665	adenine-specific DNA methyltransferase
+cds37	0	0	1.71704	nodulation protein NolK
+cds54	0	0	2.37853	hypothetical protein
+cds36	0	0	1.45724	GDP-D-mannose dehydratase
+cds53	0	0	2.24286	hypothetical protein
+cds59	0	0	1.66862	urease accessory protein UreE
+cds67	0	0	1.26357	membrane protein
+cds43	0	0	1.99286	hypothetical protein
+cds45	0	0	1.24212	sodium/proline symporter
+cds62	0	0	1.73082	urease subunit alpha
+cds39	0	0	1.28442	[NiFe] hydrogenase maturation protein HypF
+cds83	0	0	1.48254	2-hydroxyacid dehydrogenase
+cds84	0	0	1.58123	hypothetical protein
+cds92	0	0	1.3245	S-ribosylhomocysteinase
+cds80	0	0	1.90647	type II restriction-modification system endonuclease
+cds75	0	0	1.41833	malate:quinone oxidoreductase
+cds88	0	0	1.8832	membrane protein
+cds97	0	0	1.82105	heat shock protein GrpE
+cds89	0	0	1.70769	glycosyltransferase
+cds94	0	0	1.31379	cysteine synthetase CysK
+cds93	0	0	1.12773	cystathionine gamma-synthase
+cds109	0	0	3.31818	hypothetical protein
+cds107	0	0	1.21554	hypothetical protein
+cds112	0	0	2.68718	50S ribosomal protein L35
+cds98	0	0	1.41035	heat-inducible transcription repressor
+cds116	0	0	2.07042	hypothetical protein
+cds44	0	0	1.73099	adenine/cytosine DNA methyltransferase
+cds122	0	0	4.05926	hypothetical protein
+cds113	0	0	2.24501	50S ribosomal protein L20
+cds104	0	0	1.67098	hypothetical protein
+cds102	0	0	1.17087	flagellin B
+cds90	0	0	1.23322	methyl-accepting chemotaxis protein TlpB
+cds114	0	0	1.77584	membrane protein
+cds134	0	0	2.80193	hypothetical protein
+cds117	0	0	3.1115	hypothetical protein
+cds141	0	0	2.5942	hypothetical protein
+cds119	0	0	1.37208	L-serine deaminase SdaA
+cds136	0	0	1.6176	hypothetical protein
+cds137	0	0	1.51661	membrane protein
+cds150	0	0	1.74895	hypothetical protein
+cds108	0	0	1.27101	phosphoenolpyruvate synthase
+cds151	0	0	2.17424	hypothetical protein
+cds139	0	0	1.30939	recombinase RecA
+cds148	0	0	1.14918	delta-aminolevulinic acid dehydratase
+cds158	0	0	3.21918	hypothetical protein
+cds153	0	0	1.47375	hypothetical protein
+cds144	0	0	1.58412	membrane protein
+cds145	0	0	1.64433	lipopolysaccharide 1%2C2-glucosyltransferase RfaJ
+cds165	0	0	1.71556	CvpA family protein
+cds171	0	0	1.897	hypothetical protein
+cds163	0	0	1.71495	ABC transporter ATP-binding protein
+cds159	0	0	1.74667	peptidylprolyl isomerase
+cds169	0	0	1.69527	hypothetical protein
+cds162	0	0	1.5914	pseudaminic acid synthase
+cds152	0	0	1.28999	protease
+cds180	0	0	2.14493	nucleoside diphosphate kinase
+cds168	0	0	1.95396	hypothetical protein
+cds182	0	0	3.59184	50S ribosomal protein L32
+cds185	0	0	2.04688	hypothetical protein
+cds181	0	0	2.38375	hypothetical protein
+cds164	0	0	1.44288	apolipoprotein N-acyltransferase
+cds177	0	0	1.51932	enoyl-ACP reductase
+cds179	0	0	1.33938	S-adenosylmethionine synthetase
+cds184	0	0	1.38052	3-oxoacyl-ACP synthase III
+cds197	0	0	1.83152	phospholipid-binding protein
+cds198	0	0	2.1125	DNA-binding protein
+cds183	0	0	1.42773	glycerol-3-phosphate acyltransferase PlsX
+cds201	0	0	2.33333	hypothetical protein
+cds166	0	0	1.50398	lysine--tRNA ligase
+cds204	0	0	1.5024	membrane protein
+cds214	0	0	1.83333	hypothetical protein
+cds199	0	0	1.14089	cysteine desulfurase
+cds212	0	0	1.71563	membrane protein
+cds203	0	0	1.53611	bifunctional methionine sulfoxide reductase subunits A/B
+cds223	0	0	2.2673	hypothetical protein
+cds213	0	0	1.37828	beta-lactamase HcpE
+cds219	0	0	2.56818	hypothetical protein
+cds238	0	0	2.14594	hypothetical protein
+cds232	0	0	1.9324	flagellar FliJ family protein
+cds224	0	0	1.51798	flagellar basal body P-ring biosynthesis protein FlgA
+cds237	0	0	3.21805	hypothetical protein
+cds234	0	0	1.15377	zinc metalloprotease
+cds233	0	0	1.71667	hypothetical protein
+cds244	0	0	2.57202	hypothetical protein
+cds246	0	0	1.53517	hypothetical protein
+cds250	0	0	1.96742	hypothetical protein
+cds249	0	0	1.8463	hypothetical protein
+cds243	0	0	1.79187	adenosine deaminase
+cds245	0	0	1.34779	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+cds267	0	0	2.20619	chorismate mutase
+cds257	0	0	1.17652	queuine tRNA-ribosyltransferase
+cds272	0	0	2.38095	50S ribosomal protein L21
+cds275	0	0	0.900498	dipeptide ABC transporter permease DppB
+cds279	0	0	1.14589	GTPase ObgE
+cds287	0	0	2.06775	hypothetical protein
+cds290	0	0	2.24561	endoribonuclease VapD
+cds284	0	0	1.93333	membrane protein
+cds281	0	0	1.94775	hypothetical protein
+cds286	0	0	1.30385	polysaccharide deacetylase
+cds285	0	0	1.26735	amidohydrolase
+cds307	0	0	2.41453	cell division topological specificity factor MinE
+cds299	0	0	1.70327	membrane protein
+cds297	0	0	1.32148	poly E-rich protein
+cds302	0	0	1.82689	UDP-4-amino-4%2C6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+cds289	0	0	1.56981	MFS transporter
+cds293	0	0	1.49206	heme oxygenase
+cds300	0	0	1.81513	flagellar basal body L-ring protein
+cds309	0	0	1.65679	Holliday junction resolvase-like protein
+cds303	0	0	1.58786	tetraacyldisaccharide 4'-kinase
+cds319	0	0	1.63378	membrane protein
+cds304	0	0	1.70243	NAD synthetase
+cds308	0	0	1.69004	DNA protecting protein A
+cds301	0	0	1.56306	bifunctional pseudaminic acid cytidylyltransferase/UDP-2%2C4-diacetamido-2%2C4%2C6-trideoxy-beta-L-altropyranose hydrolase
+cds326	0	0	1.49137	short chain alcohol dehydrogenase
+cds321	0	0	1.46221	flagellar motor switch protein FliG
+cds334	0	0	2.07882	hypothetical protein
+cds322	0	0	1.76963	flagellar assembly protein H
+cds329	0	0	1.49383	tRNA pseudouridine synthase A
+cds336	0	0	1.74522	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+cds317	0	0	1.39523	single-stranded-DNA-specific exonuclease RecJ
+cds350	0	0	3.05195	hypothetical protein
+cds348	0	0	1.88	hypothetical protein
+cds327	0	0	1.4388	membrane protein
+cds355	0	0	2.12974	2-Cys peroxiredoxin
+cds333	0	0	1.62589	UDP-4-amino-4%2C6-dideoxy-N-acetyl-beta-L-altrosamine aminotransferase
+cds353	0	0	1.77732	tRNA methyltransferase
+cds360	0	0	1.81166	hypothetical protein
+cds359	0	0	1.59289	hypothetical protein
+cds369	0	0	2.26349	protein kinase C inhibitor
+cds371	0	0	1.86464	hypothetical protein
+cds373	0	0	1.91002	hypothetical protein
+cds368	0	0	1.53394	phenylalanine--tRNA ligase subunit alpha
+cds381	0	0	1.56616	tRNA (mo5U34)-methyltransferase
+cds375	0	0	2.08267	neuraminyllactose-binding hemagglutinin HpaA
+cds382	0	0	1.93473	hypothetical protein
+cds370	0	0	1.35676	cysteine desulfurase
+cds411	0	0	2.92827	hypothetical protein
+cds380	0	0	1.64683	hypothetical protein
+cds410	0	0	2.84091	hypothetical protein
+cds409	0	0	2.57395	hypothetical protein
+cds408	0	0	3.49351	hypothetical protein
+cds418	0	0	1.97414	membrane protein
+cds420	0	0	1.88753	hypothetical protein
+cds383	0	0	1.58462	glycosyl transferase
+cds417	0	0	1.56901	hypothetical protein
+cds439	0	0	2.77249	50S ribosomal protein L28
+cds384	0	0	1.42208	arginine decarboxylase
+cds444	0	0	2.12189	acyl-CoA thioesterase YbgC
+cds433	0	0	1.66455	catalase-like protein
+cds443	0	0	2.59004	hypothetical protein
+cds430	0	0	1.59482	glycosyltransferase family protein
+cds434	0	0	1.18589	membrane protein
+cds441	0	0	1.371	phospho-N-acetylmuramoyl-pentapeptide-transferase
+cds455	0	0	3.08547	hypothetical protein
+cds438	0	0	1.47142	potassium channel protein
+cds429	0	0	1.60012	adenine-specific DNA methyltransferase
+cds458	0	0	1.90066	50S ribosomal protein L9
+cds454	0	0	1.49935	4-hydroxy-tetrahydrodipicolinate reductase
+cds453	0	0	1.03116	glycolate oxidase subunit GlcD
+cds464	0	0	2.25575	cag pathogenicity island protein cag1
+cds466	0	0	1.89608	cag pathogenicity island protein cag4
+cds477	0	0	2.67717	cag pathogenicity island protein cag14
+cds469	0	0	2.09333	Cag-specific translocation protein CagZ
+cds461	0	0	1.69967	GTP-binding protein Era
+cds474	0	0	2.05023	cag pathogenicity island protein cag11
+cds457	0	0	1.63379	hypothetical protein
+cds476	0	0	2.45347	cag pathogenicity island protein cag13
+cds489	0	0	2.64474	cag pathogenicity island protein
+cds488	0	0	2.42241	cag pathogenicity island protein cag25
+cds481	0	0	1.95658	cag pathogenicity island protein cag18
+cds493	0	0	3.17647	50S ribosomal protein L31
+cds480	0	0	1.85885	cag pathogenicity island protein cag17
+cds482	0	0	1.59948	cag pathogenicity island protein cag19
+cds491	0	0	1.63802	glutamate racemase
+cds501	0	0	2.4557	acyl carrier protein
+cds498	0	0	2.19406	hypothetical protein
+cds505	0	0	2.82114	hypothetical protein
+cds471	0	0	1.75717	cag pathogenicity island protein cag8
+cds503	0	0	2.78873	30S ribosomal protein S21
+cds492	0	0	1.4161	transcription termination factor Rho
+cds495	0	0	1.70175	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+cds514	0	0	2.33934	membrane protein
+cds500	0	0	1.14044	3-oxoacyl-ACP synthase
+cds506	0	0	1.71296	membrane protein
+cds508	0	0	1.38204	membrane protein
+cds512	0	0	1.61831	membrane protein
+cds513	0	0	1.75741	adenine phosphoribosyltransferase
+cds523	0	0	1.0041	periplasmic protein TonB
+cds518	0	0	1.39135	bifunctional 5%2C10-methylene-tetrahydrofolate dehydrogenase/5%2C10-methylene-tetrahydrofolate cyclohydrolase
+cds527	0	0	2.68831	hypothetical protein
+cds525	0	0	2.14516	flagellar motor switch protein
+cds535	0	0	2.73333	hypothetical protein
+cds526	0	0	1.69102	endonuclease III
+cds524	0	0	1.39456	hypothetical protein
+cds537	0	0	1.74957	tumor necrosis factor alpha-inducing protein
+cds532	0	0	1.3382	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+cds549	0	0	1.55072	membrane protein
+cds551	0	0	3.61905	hypothetical protein
+cds556	0	0	2.00766	inorganic pyrophosphatase
+cds555	0	0	1.97222	adenylate kinase
+cds558	0	0	2.03857	membrane protein
+cds568	0	0	1.39292	hydrogenase biosynthesis protein HydD
+cds567	0	0	1.33037	Ni/Fe-hydrogenase B-type cytochrome subunit
+cds570	0	0	1.89404	hypothetical protein
+cds574	0	0	3.25	hypothetical protein
+cds559	0	0	1.53926	UDP-N-acetylmuramate--L-alanine ligase
+cds571	0	0	1.70588	membrane protein
+cds577	0	0	2.23129	membrane protein
+cds575	0	0	1.65443	NAD(P)H nitroreductase
+cds580	0	0	1.7549	hypothetical protein
+cds586	0	0	2.23214	nonheme iron-containing ferritin
+cds592	0	0	1.42088	hypothetical protein
+cds596	0	0	1.2286	chorismate synthase
+cds581	0	0	1.28684	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+cds604	0	0	1.66667	methylated-DNA--protein-cysteine methyltransferase
+cds607	0	0	1.18738	membrane protein
+cds593	0	0	1.61849	hypothetical protein
+cds605	0	0	1.27995	membrane protein
+cds589	0	0	1.44965	dehypoxanthine futalosine cyclase
+cds602	0	0	1.35976	aspartate aminotransferase
+cds620	0	0	1.90956	diacylglycerol kinase DgkA
+cds627	0	0	1.82899	hypothetical protein
+cds626	0	0	1.42395	rRNA small subunit methyltransferase H
+cds625	0	0	1.65815	membrane protein
+cds628	0	0	1.49391	S-adenosyl-l-methionine hydroxide adenosyltransferase
+cds633	0	0	1.72886	tRNA threonylcarbamoyl adenosine modification protein
+cds636	0	0	2.24837	hypothetical protein
+cds638	0	0	1.16415	L-asparaginase II
+cds632	0	0	1.73444	ABC transporter ATP-binding protein
+cds641	0	0	1.37473	membrane protein
+cds630	0	0	1.54218	competence protein ComGF
+cds639	0	0	1.08784	anaerobic C4-dicarboxylate transporter
+cds650	0	0	1.78407	membrane protein
+cds654	0	0	1.75926	HIT family hydrolase
+cds646	0	0	1.58188	hypothetical protein
+cds655	0	0	1.35946	ribose-phosphate pyrophosphokinase
+cds668	0	0	3.17687	hypothetical protein
+cds663	0	0	2.10556	flagellar protein FlaG
+cds665	0	0	2.30709	flagellar biosynthesis protein FliS
+cds660	0	0	1.64732	ABC transporter ATP-binding protein
+cds657	0	0	1.47663	pseudouridine synthase
+cds667	0	0	1.67457	hypothetical protein
+cds659	0	0	1.47124	tRNA (guanine-N(7)-)-methyltransferase
+cds690	0	0	1.96337	hypothetical protein
+cds672	0	0	2.07794	hypothetical protein
+cds669	0	0	1.46644	N-carbamoylputrescine amidase
+cds671	0	0	1.11882	membrane protein
+cds693	0	0	2.11446	hypothetical protein
+cds681	0	0	1.5664	membrane protein
+cds664	0	0	1.35062	flagellar hook-associated protein
+cds694	0	0	2.10631	outer membrane lipoprotein carrier protein
+cds670	0	0	1.41857	sodium:proton antiporter
+cds710	0	0	1.95111	molybdopterin converting factor subunit MoaD
+cds707	0	0	2.0587	cyclic pyranopterin monophosphate synthase accessory protein
+cds705	0	0	1.61768	membrane protein
+cds715	0	0	1.61192	metalloprotease
+cds691	0	0	1.50853	hypothetical protein
+cds720	0	0	2.29969	hypothetical protein
+cds708	0	0	1.94539	molybdopterin adenylyltransferase
+cds706	0	0	1.85441	neuraminyllactose-binding hemagglutinin
+cds717	0	0	2.31111	holo-[acyl-carrier-protein] synthase
+cds722	0	0	1.70874	metallo-beta-lactamase family protein
+cds719	0	0	1.733	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+cds714	0	0	1.31696	lipooligosaccharide biosynthesis protein
+cds713	0	0	1.4087	3%2C4-dihydroxy-2-butanone-4-phosphate synthase
+cds729	0	0	3.07778	hypothetical protein
+cds726	0	0	1.76734	hypothetical protein
+cds718	0	0	2.01087	flagellar basal body protein FliL
+cds734	0	0	1.9595	thioredoxin
+cds724	0	0	1.42248	flagellar motor protein MotA
+cds723	0	0	1.57552	thiazole biosynthesis adenylyltransferase ThiF
+cds737	0	0	2.45783	ss-DNA binding protein
+cds730	0	0	2.08009	hypothetical protein
+cds745	0	0	2.27018	histone-like DNA-binding protein HU
+cds727	0	0	1.13057	osmoprotectant ABC transporter permease/substrate-binding protein ProWX
+cds738	0	0	1.59178	ATP synthase subunit A
+cds756	0	0	1.09278	hypothetical protein
+cds746	0	0	1.66505	hypothetical protein
+cds743	0	0	1.76906	hypothetical protein
+cds750	0	0	1.49593	hypothetical protein
+cds739	0	0	1.07676	inosine 5'-monophosphate dehydrogenase
+cds767	0	0	1.55939	D%2CD-heptose 1%2C7-bisphosphate phosphatase
+cds752	0	0	1.42189	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+cds731	0	0	1.47003	excinuclease ABC subunit C
+cds764	0	0	1.56822	phosphoheptose isomerase
+cds761	0	0	1.31504	guanosine 5'-monophosphate oxidoreductase
+cds757	0	0	1.40152	type I restriction-modification system methyltransferase
+cds772	0	0	1.75799	deoxyuridine 5'-triphosphate nucleotidohydrolase
+cds780	0	0	2.83333	membrane protein
+cds776	0	0	1.98305	hydrogenase nickel incorporation protein HypA
+cds785	0	0	3.16667	hypothetical protein
+cds775	0	0	1.94372	hypothetical protein
+cds784	0	0	1.81857	Holliday junction resolvase
+cds786	0	0	1.73071	hypothetical protein
+cds796	0	0	1.40986	short-chain type dehydrogenase/reductase
+cds774	0	0	1.49307	lipid-A-disaccharide synthase
+cds800	0	0	2.397	addiction module toxin
+cds809	0	0	0.708683	acetate kinase
+cds760	0	0	1.38889	ABC transporter ATP-binding protein
+cds807	0	0	3.12698	membrane protein
+cds808	0	0	1.69	hypothetical protein
+cds813	0	0	2.03135	hypothetical protein
+cds810	0	0	0.791035	hypothetical protein
+cds804	0	0	1.07727	hydrogenase expression/formation protein HypD
+cds826	0	0	3.00966	4-oxalocrotonate tautomerase
+cds817	0	0	1.24465	membrane protein
+cds837	0	0	2.09195	hypothetical protein
+cds835	0	0	1.62963	hypothetical protein
+cds833	0	0	1.85904	6-carboxy-5%2C6%2C7%2C8-tetrahydropterin synthase
+cds834	0	0	1.64947	7-carboxy-7-deazaguanine synthase
+cds846	0	0	2.63085	hypothetical protein
+cds831	0	0	1.66447	geranyltranstransferase
+cds838	0	0	1.53782	amino acid ABC transporter permease
+cds836	0	0	1.39145	proline/betaine transporter ProP
+cds855	0	0	1.59534	RNA pseudouridine synthase
+cds841	0	0	1.20621	D-alanine/glycine permease
+cds852	0	0	1.93651	hypothetical protein
+cds873	0	0	2.47872	aspartyl/glutamyl-tRNA amidotransferase subunit C
+cds878	0	0	0.273927	hypothetical protein
+cds883	0	0	2.13675	hypothetical protein
+cds847	0	0	1.77416	hypothetical protein
+cds871	0	0	1.41149	hypothetical protein
+cds882	0	0	1.22689	hypothetical protein
+cds886	0	0	3.45238	hypothetical protein
+cds880	0	0	1.63152	mechanosensitive ion channel protein
+cds868	0	0	1.55648	nickel-cobalt-cadmium resistance protein NccB
+cds877	0	0	1.30397	cell division protein FtsZ
+cds865	0	0	1.63939	hypothetical protein
+cds869	0	0	1.64976	hypothetical protein
+cds904	0	0	1.67662	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+cds908	0	0	3.66049	hypothetical protein
+cds914	0	0	2.03532	ferric uptake regulation protein
+cds912	0	0	1.74194	MerR family transcriptional regulator
+cds915	0	0	1.92972	hypothetical protein
+cds916	0	0	1.87523	hypothetical protein
+cds899	0	0	1.68939	dihydroorotate dehydrogenase 2
+cds909	0	0	1.79331	5'-3' exonuclease
+cds906	0	0	1.39722	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase
+cds900	0	0	1.53708	Zn-dependent protease
+cds911	0	0	1.51557	chaperone protein DnaJ
+cds924	0	0	1.66865	3-dehydroquinate dehydratase
+cds889	0	0	1.84415	hypothetical protein
+cds926	0	0	2.28938	30S ribosomal protein S15
+cds922	0	0	1.92886	7%2C 8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+cds937	0	0	1.98345	hypothetical protein
+cds933	0	0	2.47619	ribosome-binding factor A
+cds932	0	0	2.02494	ribosome maturation factor RimP
+cds930	0	0	1.49775	metallophosphoesterase
+cds949	0	0	2.03911	rRNA small subunit methyltransferase G
+cds950	0	0	2.71631	hypothetical protein
+cds946	0	0	1.70393	Sec-independent protein translocase protein TatB
+cds951	0	0	2.18137	hypothetical protein
+cds943	0	0	1.44537	membrane protein
+cds956	0	0	2.76471	hypothetical protein
+cds938	0	0	1.54955	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+cds959	0	0	1.84577	copper ion binding protein CopP
+cds953	0	0	2.472	chemotaxis protein CheY
+cds952	0	0	2.0597	membrane protein
+cds962	0	0	1.95543	hypothetical protein
+cds940	0	0	1.52482	hypothetical protein
+cds948	0	0	1.59827	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+cds960	0	0	1.78961	hypothetical protein
+cds982	0	0	2.51042	hypothetical protein
+cds971	0	0	1.95543	hypothetical protein
+cds972	0	0	1.73305	hemolysin
+cds969	0	0	1.35625	membrane protein
+cds978	0	0	1.48765	flagellar basal-body rod protein FlgG
+cds961	0	0	1.58087	hypothetical protein
+cds970	0	0	1.66775	aspartate carbamoyltransferase
+cds977	0	0	1.4356	alpha-ketoglutarate permease
+cds984	0	0	1.63636	2-keto-3-deoxy-6-phosphogluconate aldolase
+cds992	0	0	1.81097	membrane protein
+cds994	0	0	1.81679	pyruvate flavodoxin oxidoreductase subunit delta
+cds996	0	0	1.3037	pyruvate flavodoxin oxidoreductase subunit beta
+cds988	0	0	1.13254	glucokinase
+cds1008	0	0	3.06763	hypothetical protein
+cds993	0	0	1.92335	pyruvate flavodoxin oxidoreductase subunit gamma
+cds1005	0	0	1.98391	hypothetical protein
+cds1009	0	0	1.84229	peptidyl-prolyl cis-trans isomerase
+cds1002	0	0	1.93645	Sel1 repeat-containing protein
+cds1015	0	0	1.84	ATP synthase subunit epsilon
+cds1011	0	0	2.0463	peptidoglycan associated lipoprotein
+cds1014	0	0	1.77368	biopolymer transport protein ExbB
+cds1025	0	0	1.63816	methionyl-tRNA formyltransferase
+cds1032	0	0	2.51082	30S ribosomal protein S16
+cds1020	0	0	2.1376	ATP synthase subunit B
+cds1028	0	0	2.06723	50S ribosomal protein L19
+cds1019	0	0	2.13812	ATP synthase subunit delta
+cds1031	0	0	2.22414	hypothetical protein
+cds1024	0	0	1.48357	biotin--protein ligase
+cds1030	0	0	1.86126	ribosome maturation factor RimM
+cds1023	0	0	1.58994	chromosome partitioning ATPase
+cds1040	0	0	1.7809	cell filamentation protein
+cds1041	0	0	1.83215	endoribonuclease
+cds1042	0	0	1.99798	flavodoxin FldA
+cds1029	0	0	1.8	tRNA (guanine-N(1)-)-methyltransferase
+cds1035	0	0	2.31618	flagellar assembly protein FliW
+cds1012	0	0	1.67225	translocation protein TolB
+cds1043	0	0	1.94797	membrane protein
+cds1054	0	0	2.03623	hypothetical protein
+cds1048	0	0	1.37429	membrane protein
+cds1066	0	0	1.79146	carbonic anhydrase
+cds1062	0	0	1.5315	tRNA 2-thiocytidine biosynthesis protein TtcA
+cds1047	0	0	1.52564	glucose-6-phosphate isomerase
+cds1057	0	0	1.36293	membrane protein
+cds1077	0	0	3.05729	hypothetical protein
+cds1083	0	0	3.10556	preprotein translocase subunit SecE
+cds1084	0	0	2.86792	50S ribosomal protein L33
+cds1072	0	0	1.50505	aldo/keto reductase
+cds1089	0	0	1.33333	serine acetyltransferase CysE
+cds1081	0	0	1.88498	50S ribosomal protein L11
+cds1079	0	0	1.69091	50S ribosomal protein L10
+cds1080	0	0	1.44397	50S ribosomal protein L1
+cds1087	0	0	1.66218	hypothetical protein
+cds1095	0	0	3.13542	hypothetical protein
+cds1093	0	0	2.00625	hypothetical protein
+cds1103	0	0	2.63918	cytochrome c553
+cds1097	0	0	1.6922	isoprenyl transferase
+cds1109	0	0	1.79221	hypothetical protein
+cds1092	0	0	1.78838	phosphoribosyltransferase
+cds1096	0	0	1.81077	ABC transporter ATP-binding protein
+cds1117	0	0	2.82251	hypothetical protein
+cds1119	0	0	2.27519	30S ribosomal protein S18
+cds1102	0	0	1.66383	coproporphyrinogen III oxidase
+cds1115	0	0	1.51309	Maf-like protein
+cds1121	0	0	1.95571	30S ribosomal protein S6
+cds1110	0	0	1.50836	membrane protein
+cds1113	0	0	1.40426	carbamoyl phosphate synthase small subunit
+cds1133	0	0	2.21505	hypothetical protein
+cds1131	0	0	1.41398	ribosome recycling factor
+cds1134	0	0	1.9005	NADH-quinone oxidoreductase subunit A
+cds1126	0	0	1.25979	oligopeptide ABC transporter permease OppB
+cds1138	0	0	2.61039	hypothetical protein
+cds1129	0	0	1.70401	malonyl-acyl carrier protein O-methyltransferase BioC
+cds1136	0	0	1.4819	NADH-quinone oxidoreductase subunit C
+cds1147	0	0	1.18262	NADH-quinone oxidoreductase subunit N
+cds1127	0	0	1.41793	oligopeptide ABC transporter substrate-binding protein OppA
+cds1158	0	0	1.48319	heptosyltransferase
+cds1166	0	0	2.47293	50S ribosomal protein L17
+cds1159	0	0	1.92352	hypothetical protein
+cds1175	0	0	2.08706	50S ribosomal protein L15
+cds1171	0	0	3.94737	50S ribosomal protein L36
+cds1165	0	0	1.96098	thiamine pyrophosphokinase
+cds1169	0	0	1.75253	30S ribosomal protein S11
+cds1170	0	0	1.97521	30S ribosomal protein S13
+cds1168	0	0	1.43062	30S ribosomal protein S4
+cds1184	0	0	2.56322	30S ribosomal protein S17
+cds1153	0	0	1.46799	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+cds1177	0	0	1.7507	50S ribosomal protein L18
+cds1180	0	0	2.9086	30S ribosomal protein S14
+cds1185	0	0	2.81592	50S ribosomal protein L29
+cds1189	0	0	2.05674	30S ribosomal protein S19
+cds1182	0	0	2.58108	50S ribosomal protein L24
+cds1178	0	0	1.69832	50S ribosomal protein L6
+cds1179	0	0	2.13636	30S ribosomal protein S8
+cds1191	0	0	2.20922	50S ribosomal protein L23
+cds1183	0	0	2.11924	50S ribosomal protein L14
+cds1194	0	0	2.2	30S ribosomal protein S10
+cds1188	0	0	1.95664	50S ribosomal protein L22
+cds1181	0	0	1.8956	50S ribosomal protein L5
+cds1186	0	0	1.8662	50S ribosomal protein L16
+cds1190	0	0	1.40433	50S ribosomal protein L2
+cds1198	0	0	2.48413	hypothetical protein
+cds1187	0	0	1.44681	30S ribosomal protein S3
+cds1200	0	0	2.20106	hypothetical protein
+cds1204	0	0	2.0977	hypothetical protein
+cds1195	0	0	1.50794	ATP-binding protein
+cds1214	0	0	1.90513	biopolymer transport protein ExbD
+cds1202	0	0	1.60079	hypothetical protein
+cds1217	0	0	1.49657	membrane protein
+cds1209	0	0	1.44509	tRNA-specific 2-thiouridylase MnmA
+cds1220	0	0	1.63948	glyceraldehyde-3-phosphate dehydrogenase
+cds1230	0	0	1.93886	membrane protein
+cds1227	0	0	1.81873	nicotinate-nucleotide pyrophosphorylase
+cds1240	0	0	1.39468	type IIS restriction-modification system methyltransferase
+cds1226	0	0	1.63611	adenine-specific DNA methyltransferase
+cds1252	0	0	2.61538	hypothetical protein
+cds1247	0	0	1.62292	(3R)-hydroxymyristoyl-ACP dehydratase
+cds1248	0	0	2.18718	flagellar assembly protein FliW
+cds1246	0	0	1.39606	acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+cds1253	0	0	2.10433	hypothetical protein
+cds1263	0	0	2.14141	hypothetical protein
+cds1235	0	0	1.36831	bifunctional ADP-dependent (S)-NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase
+cds1249	0	0	1.98341	hypothetical protein
+cds1236	0	0	1.5469	histidine kinase sensor protein
+cds1251	0	0	1.45238	prephenate dehydrogenase
+cds1267	0	0	1.52263	membrane protein
+cds1266	0	0	1.55789	NAD kinase
+cds1281	0	0	1.91723	7-cyano-7-deazaguanine reductase
+cds1285	0	0	1.69403	metal-dependent hydrolase
+cds1287	0	0	2.19101	flagellar biosynthesis protein FliQ
+cds1276	0	0	1.37656	YihY family inner membrane protein
+cds1286	0	0	1.57051	UDP-N-acetylenolpyruvoylglucosamine reductase
+cds1301	0	0	1.78611	hypothetical protein
+cds1292	0	0	1.58132	hypothetical protein
+cds1305	0	0	2.55844	carbon storage regulator
+cds1304	0	0	1.73171	peptidyl-prolyl cis-trans isomerase B
+cds1289	0	0	1.44262	type IV secretion system ATPase
+cds1310	0	0	3.62963	50S ribosomal protein L34
+cds1307	0	0	2.11329	SsrA-binding protein
+cds1308	0	0	2.13024	biopolymer transport protein ExbB
+cds1299	0	0	1.76337	endopeptidase IV
+cds1321	0	0	1.85397	thioredoxin
+cds1318	0	0	2.18321	hypothetical protein
+cds1319	0	0	1.82008	membrane-associated lipoprotein
+cds1297	0	0	1.18864	hypothetical protein
+cds1314	0	0	1.72579	hypothetical protein
+cds1325	0	0	2.28709	hypothetical protein
+cds1322	0	0	1.59949	pseudouridine synthase
+cds1328	0	0	1.23664	ABC transporter ATP-binding protein
+cds1331	0	0	0.852395	branched-chain amino acid aminotransferase
+cds1317	0	0	1.80921	hypothetical protein
+cds1326	0	0	2.0649	hypothetical protein
+cds1329	0	0	1.29101	ABC transporter permease
+cds1334	0	0	1.22278	hypothetical protein
+cds1347	0	0	1.95526	membrane protein
+cds1356	0	0	1.88072	hypothetical protein
+cds1360	0	0	1.99287	peptidyl-tRNA hydrolase
+cds1357	0	0	1.42336	UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase
+cds1362	0	0	1.91331	restriction endonuclease
+cds1373	0	0	2.26911	hypothetical protein
+cds1361	0	0	1.65169	permease
+cds1379	0	0	1.59375	hypothetical protein
+cds1372	0	0	2.26836	dihydroneopterin aldolase
+cds1366	0	0	1.78103	methyltransferase
+cds1335	0	0	1.59461	hypothetical protein
+cds1368	0	0	0.964955	glutamate permease GltS
+cds1367	0	0	1.45024	hypothetical protein
+cds1388	0	0	2.72917	hypothetical protein
+cds1387	0	0	1.90239	hypothetical protein
+cds1404	0	0	2.12389	membrane protein
+cds1394	0	0	1.6049	ubiquinol cytochrome c oxidoreductase cytochrome c1 subunit
+cds1402	0	0	1.94347	lipoprotein
+cds1400	0	0	1.57282	peptidase
+cds1407	0	0	2.03385	preprotein translocase subunit YajC
+cds1415	0	0	2.04019	flagellar basal-body rod protein FlgB
+cds1414	0	0	2.16667	flagellar basal body rod protein FlgC
+cds1405	0	0	1.38683	preprotein translocase subunit SecF
+cds1419	0	0	1.99832	peroxiredoxin
+cds1423	0	0	1.60447	GTP-binding protein EngB
+cds1418	0	0	1.5509	iron(III) ABC transporter substrate-binding protein CeuE
+cds1424	0	0	1.69746	hypothetical protein
+cds1420	0	0	1.6826	ABC transporter substrate-binding protein
+cds1431	0	0	2.18681	hypothetical protein
+cds1430	0	0	1.7504	riboflavin synthase subunit alpha
+cds1427	0	0	1.43987	rare lipoprotein A RlpA
+cds1444	0	0	2.66667	hypothetical protein
+cds1443	0	0	0.450321	hypothetical protein
+cds1429	0	0	1.76863	hydrolase TatD
+cds1436	0	0	1.41327	hypothetical protein
+cds1440	0	0	1.56794	tRNA N6-adenosine threonylcarbamoyltransferase
+cds1432	0	0	1.52337	DL-methionine transporter ATP-binding subunit
+cds1437	0	0	1.39169	glycosyltransferase
+cds1442	0	0	1.87927	hypothetical protein

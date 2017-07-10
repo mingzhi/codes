@@ -1,0 +1,37 @@
+---
+title: "Not really a single clone"
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: inline
+---
+
+Why did we observe correlations in the raw reads of a sinle clone? Two possible reasons:
+
+1. gene duplication;
+2. not really a single clone, but a mixed populaiton.
+
+If gene duplication is the reason, only genes with multiple copies will have observable diversity. However, in the following figures, we show that gene diversity (measured by $P_2/K_s$) does not correlate with their read depths. Many genes with single copy are also diverse.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(dplyr)
+
+plot_ks_readdpth = function(runID) {
+  d = read.csv(file.path("data", paste(runID, "corr.txt", sep = ".")), sep = '\t') %>% mutate(NormReadDepth = ReadDepth / median(ReadDepth)) %>% arrange(NormReadDepth)
+  d = d[10:nrow(d)-10,]
+  plot(d$NormReadDepth, d$P2/d$Ks, xlab = "Read depth / median(Read depth)", ylab = expression("P"[2]/"K"["s"]), main = paste("Run ID:", runID, "\nKs =", round(mean(d$Ks), 4), sep = " "))
+  abline(v = mean(d$NormReadDepth), col = "red")
+  abline(v = mean(d$NormReadDepth) + 2*sd(d$NormReadDepth), col = "blue")
+  abline(v = mean(d$NormReadDepth) - 2*sd(d$NormReadDepth), col = "blue")
+}
+```
+
+```{r, fig.width=4, fig.height=4, echo=FALSE}
+runID = "SRR1544655"
+plot_ks_readdpth(runID)
+runID = "SRR1544650"
+plot_ks_readdpth(runID)
+```
+
+
