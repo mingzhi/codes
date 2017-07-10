@@ -4,7 +4,7 @@ readcorr = function(read) {
     d = read.csv(filepath)
     d$read = read
     d$group = NULL
-    if (d$fbar < 200 | d$sample_d < 0.0011) {
+    if (d$rho < 20) {
         return(NULL)
     }
     d
